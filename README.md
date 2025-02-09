@@ -1,42 +1,51 @@
-# Nuxt 3 Minimal Starter
+# Matrix Terminal Portfolio
 
-Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+A cyberpunk-inspired terminal portfolio website built with Nuxt 3. Live demo: [krbdn.dev](https://krbdn.dev)
 
-## Setup
+## 🚀 Features
 
-Make sure to install the dependencies:
+- Terminal-like interface
+- Matrix-inspired animations
+- Interactive command system
+- Responsive design
+- Type-safe with TypeScript
+
+## 🛠️ Tech Stack
+
+- Nuxt 3
+- Vue 3
+- TypeScript
+- Tailwind CSS
+
+## ⚡ Quick Start
 
 ```bash
-# yarn
-yarn install
-
-# npm
+# Install dependencies
 npm install
 
-# pnpm
-pnpm install
-```
-
-## Development Server
-
-Start the development server on http://localhost:3000
-
-```bash
+# Start development server
 npm run dev
-```
 
-## Production
-
-Build the application for production:
-
-```bash
+# Build for production
 npm run build
-```
 
-Locally preview production build:
-
-```bash
+# Preview production build
 npm run preview
 ```
 
-Check out the [deployment documentation](https://nuxt.com/docs/getting-started/deployment) for more information.
+## 💻 Development
+
+The development server will start at `http://localhost:3000`. The site features hot module replacement (HMR) for a seamless development experience[4].
+
+## 🏗️ Production
+
+```bash
+# Build the application
+npm run build
+
+# Preview the built application
+npm run preview
+```
+---
+
+Built with ♥️ by Kikickz
